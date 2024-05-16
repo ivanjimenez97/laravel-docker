@@ -1,6 +1,6 @@
-# LEMP - Docker Compose
+# Laravel - Docker Compose
 
-This docker compose structure was created to setting up a local environment for applications built with PHP MYSQL and NGINX, for example Laravel projects.
+This docker compose structure was created to setting up a local environment for Laravel applications using NGINX, MYSQL and of course PHP.
 
 ## Steps
 
