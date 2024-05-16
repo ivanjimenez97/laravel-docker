@@ -1,0 +1,11 @@
+# Exclude Composer dependencies
+#vendor/
+
+# Exclude Node.js dependencies (if applicable)
+#node_modules/
+
+# Exclude Laravel storage directory
+#storage/
+
+# Exclude sensitive environment file
+#.env
